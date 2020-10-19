@@ -10,3 +10,6 @@ download/
 sound/sound.cache
 stats.txt
 ServerConfig.vdf
+materials/
+models/
+sound/
