@@ -13,3 +13,7 @@ ServerConfig.vdf
 materials/
 models/
 sound/
+maps/
+*.bsp
+*.log
+*.vmx
