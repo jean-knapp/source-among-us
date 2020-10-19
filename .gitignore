@@ -1,0 +1,12 @@
+demoheader.tmp
+modelsounds.cache
+voice_ban.dt
+download/sound/sound.cache
+cfg/config.cfg
+cfg/server_blacklist.txt
+cfg/settings.scr
+downloadlists/
+download/
+sound/sound.cache
+stats.txt
+ServerConfig.vdf
